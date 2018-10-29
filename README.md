@@ -2,7 +2,9 @@
 
 # Graphs
 Those graphs are just the initial exploratory analysis for a natural language processing proposal project
+
 Graph1: It is a trend line of top 10 companies with more followers
+
 Graph2: Wordcloud of a sample from the column "description" in the linkedin database
 
 
